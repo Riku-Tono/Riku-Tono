@@ -11,17 +11,7 @@
 
 <br/><br/>
 
-<!--  GitHub Stats  -->
 
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?Riku-Tono=zizi4n5)
-
-
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Riku-Tono&show_icons=true&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=3a3a3a&text_color=555555&hide_title=true&rank_icon=github&include_all_commits=true" />
-&nbsp;
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=111111&title_color=ffffff&text_color=555555&hide_title=true&langs_count=5" />
-
-<br/><br/>
 
 <!--  Streak  -->
 <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=111111&ring=3a3a3a&fire=ffffff&currStreakLabel=555555&sideLabels=555555&currStreakNum=ffffff&sideNums=ffffff&dates=444444&stroke=111111" />
