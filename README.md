@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="banner" />
+<img src="./banner.svg" width="100%" alt="banner" <img/>
 
 <br/><br/>
 
-Riku-Tono
+<h1>Riku-Tono<h1/>
 
 LINGUISTICS • CIVILIZATION • PYTHON • MOAT
 
