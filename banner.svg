@@ -6,14 +6,14 @@
   <!-- Vertical accent line -->
   <rect x="56" y="52" width="1" height="116" fill="#2e2e2e"/>
 
-  <!-- Username / Handle -->
+  <!-- Riku-Tono -->
   <text
     x="76" y="102"
     font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Courier New', monospace"
     font-size="40"
     font-weight="300"
     letter-spacing="-1"
-    fill="#FFFFFF">YOUR_USERNAME</text>
+    fill="#FFFFFF">Riku-Tono</text>
 
   <!-- Thin rule -->
   <line x1="76" y1="118" x2="620" y2="118" stroke="#242424" stroke-width="1"/>
