@@ -35,7 +35,7 @@
 
 <br/><br/>
 
-<sub><sup><kbd>🤖 generated</kbd> &nbsp; <kbd>🦍 peer-reviewed</kbd> &nbsp; <kbd>💩 published</kbd></sup></sub>
+
 
 <br/>
 
