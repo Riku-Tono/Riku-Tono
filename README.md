@@ -14,7 +14,7 @@
 <!--  GitHub Stats  -->
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?Riku-Tono=zizi4n5)
 
 
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=Riku-Tono&show_icons=true&hide_border=true&bg_color=111111&title_color=ffffff&icon_color=3a3a3a&text_color=555555&hide_title=true&rank_icon=github&include_all_commits=true" />
