@@ -12,11 +12,9 @@
 <br/><br/>
 
 
-
-<!--  Streak  -->
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=111111&ring=3a3a3a&fire=ffffff&currStreakLabel=555555&sideLabels=555555&currStreakNum=ffffff&sideNums=ffffff&dates=444444&stroke=111111" />
-
-<br/><br/>
+🤖 generated
+🦍 peer-reviewed
+💩 published
 
 ---
 
