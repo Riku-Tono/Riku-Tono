@@ -9,20 +9,12 @@ Riku-Tono
 
 LINGUISTICS • CIVILIZATION • PYTHON • MOAT
 
-involuntarily writing code since AI took over.
+building strange models of reality
 
 
 ---
 
-<!--  Stack  -->
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=555555)
-
-
-<br/><br/>
 
 
 
-<br/>
-
-</div>
+<dv/>
