@@ -1,0 +1,37 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="#111111"/>
+
+  <!-- Vertical accent line -->
+  <rect x="56" y="52" width="1" height="116" fill="#2e2e2e"/>
+
+  <!-- Username / Handle -->
+  <text
+    x="76" y="102"
+    font-family="'SF Mono', 'JetBrains Mono', 'Menlo', 'Courier New', monospace"
+    font-size="40"
+    font-weight="300"
+    letter-spacing="-1"
+    fill="#FFFFFF">YOUR_USERNAME</text>
+
+  <!-- Thin rule -->
+  <line x1="76" y1="118" x2="620" y2="118" stroke="#242424" stroke-width="1"/>
+
+  <!-- Tags — spaced caps -->
+  <text
+    x="76" y="142"
+    font-family="'SF Mono', 'JetBrains Mono', 'Menlo', monospace"
+    font-size="10"
+    letter-spacing="3"
+    fill="#484848">PYTHON  ·  💩 LINGUISTICS  ·  🦍 THEORY</text>
+
+  <!-- Tagline — serif, italic, restrained -->
+  <text
+    x="77" y="175"
+    font-family="'Georgia', 'Times New Roman', serif"
+    font-size="13.5"
+    font-style="italic"
+    fill="#888888">involuntarily writing code since AI took over.</text>
+
+</svg>
