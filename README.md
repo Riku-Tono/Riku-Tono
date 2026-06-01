@@ -1,10 +1,4 @@
 
-<!-- ============================================================
-     GitHub Profile README
-     Replace every  YOUR_USERNAME  with your actual GitHub handle.
-     Put both  README.md  and  banner.svg  in your profile repo.
-     ============================================================ -->
-
 <div align="center">
 
 <img src="./banner.svg" width="100%" alt="banner" />
