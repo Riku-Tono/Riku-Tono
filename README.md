@@ -5,20 +5,19 @@
 
 <br/><br/>
 
+Riku-Tono
 
-🤖 generated
-🦍 peer-reviewed
-💩 published
+LINGUISTICS • CIVILIZATION • PYTHON • MOAT
+
+involuntarily writing code since AI took over.
+
 
 ---
 
 <!--  Stack  -->
 
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=555555)
-&nbsp;
-![AI](https://img.shields.io/badge/involuntary_AI_user-111111?style=flat-square&logoColor=555555)
-&nbsp;
-![Status](https://img.shields.io/badge/status-coerced-111111?style=flat-square&logoColor=555555)
+
 
 <br/><br/>
 
